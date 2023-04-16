@@ -15,6 +15,7 @@ This project demonstrates the integration of a payment gateway using Razorpay AP
 - HTML
 - CSS
 - Bootstrap
+- JavaScript
 - Razorpay API
 
 ## How to Use
