@@ -20,9 +20,9 @@ This project demonstrates the integration of a payment gateway using Razorpay AP
 
 ## How to Use
 
-To use this project, you can simply clone or download the repository and open the `index.html` file in your web browser. The website is designed to be easy to use, and the payment gateway integration is handled by the `razorpay.php` file.
+To use this project, you can simply clone or download the repository and open the `index.html` file in your web browser. The website is designed to be easy to use, and the payment gateway integration is handled by the razorpay API .
 
-If you want to modify the website, you can edit the HTML and CSS files to suit your needs. You can also modify the `razorpay.php` file to customize the payment processing logic.
+If you want to modify the website, you can edit the HTML and CSS files to suit your needs.
 
 ## Contributions
 
