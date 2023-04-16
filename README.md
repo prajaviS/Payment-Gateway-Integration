@@ -8,7 +8,7 @@ This project demonstrates the integration of a payment gateway using Razorpay AP
 - Responsive website design using HTML and CSS
 - Use of Bootstrap for streamlined development and consistency
 - Donation form for users to enter their donation amount and other details
-- razorpay API for backend payment processing
+- Razorpay API for backend payment processing
 
 ## Technologies Used
 
