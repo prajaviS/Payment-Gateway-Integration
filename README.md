@@ -32,5 +32,6 @@ Contributions to this project are welcome! If you find any issues or have sugges
 
 This project is licensed under the [MIT License](https://github.com/<username>/<repository>/blob/main/LICENSE).
 
-#Depiction
-![Home page](https://drive.google.com/file/d/1iQWkTjqFW__dY4Ql5x-UCGlpWnUkhQt2/view?usp=sharing)
+## Depiction
+![Screenshot of website homepage](https://drive.google.com/file/d/1iQWkTjqFW__dY4Ql5x-UCGlpWnUkhQt2/view?usp=sharing)
+
