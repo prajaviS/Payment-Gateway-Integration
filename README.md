@@ -14,7 +14,7 @@ This project demonstrates the integration of a payment gateway using Razorpay AP
 
 - HTML
 - CSS
-- Bootstrap
+- Tailwind
 - JavaScript
 - Razorpay API
 
